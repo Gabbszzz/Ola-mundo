@@ -1,0 +1,12 @@
+body{margin:50px;}
+
+#dsp
+{
+  background:blue;
+  color:white;
+  padding:10px;
+  text-transform: capitalize;
+  font-family:monospace;
+  font-weight:bold;
+  font-size:28px;
+}
